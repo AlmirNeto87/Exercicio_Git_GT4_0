@@ -1,0 +1,1 @@
+Esse aquivo e apenas de exemplo para atividade do Git do curso de full Stack da GT 4.0
